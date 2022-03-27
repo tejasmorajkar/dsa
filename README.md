@@ -1,9 +1,9 @@
-# Data structures and Algorithm problems solutions
-Data Structures and Algorithm problems solved in c++ and java.
-Problems are picked from Leetcode, Interviewbit.
+# Data structures and Algorithm problems repository
+Problems are picked from Leetcode, Interviewbit and their solutions are mostly in c++/java.
 
 Each problem is solved in different file.
-cpp folder contains solutions written in c++ using c++17 standards. 
+
+cpp folder contains solutions written in c++ using c++17 standards.
 Command to compile a cpp program: g++ -std=c++17 Filename.cpp
 Run cpp program:  ./a.out
 
